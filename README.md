@@ -16,7 +16,7 @@ I am a detail-oriented health systems engineer with two years of experience in d
 • Remote Research Assistant, University of Regensburg, Germany (2024-Present)
  -I am Working on leveraging Score-based and Physics-inspired Generative models inverse problems (with a particular focus on Diffusion Models) for CT and MRI reconstruction and segmentation.
 
-##Research Collaboration with
+## Research Collaboration with
 ----------------------------------------
 • Dorit Merhof, RWTH, Germany (German research chair on Medical Image Analysis) since 2023
 • Ilker Hacihaliloglu, UBC, Canada (Department of Radiology, Department of Medicine.) since 2023
