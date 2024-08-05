@@ -14,7 +14,7 @@ I am a detail-oriented health systems engineer with two years of experience in d
  - Worked on medical image processing and understanding, particularly on the semantic segmentation task. Currently, I am working on leveraging State Space Models and refining high frequency components in wavelet-based efficient vision transformer in medical image segmentation. results are published and submmited in: (**BMVC**, **WACV**)
 
 • Remote Research Assistant, University of Regensburg, Germany (2024-Present)
- -I am Working on leveraging Score-based and Physics-inspired Generative models inverse problems (with a particular focus on Diffusion Models) for CT and MRI reconstruction and segmentation.
+ - I am Working on leveraging Score-based and Physics-inspired Generative models inverse problems (with a particular focus on Diffusion Models) for CT and MRI reconstruction and segmentation.
 
 ## Research Collaboration with
 ----------------------------------------
